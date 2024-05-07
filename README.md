@@ -25,10 +25,12 @@ Bayview Hunters Point
 These neighborhoods are the focus of my subsequent analyses. Figure.1 shows how numbers of robbery incidents change overtime. 
 ![Description of the Image](top_5_robbery_neighborhoods_line_chart_2018_2022.png)
 Figure.1
+
 Analyzing Unemployment Rate Changes and Robbery Rates
 To investigate whether unemployment rates impact robbery rates, I first visualized changes in unemployment rates over time in these five neighborhoods as Figure.2. Then, I came up with a  null hypothesis that the unemployment rate affects the number of robberies. I calculated the correlation coefficient and p-value between changes in the unemployment rate and robbery rates across the five neighborhoods. 
 
 Figure.2
+
 Results Summary:
 Mission Neighborhood
 Correlation: -0.24
