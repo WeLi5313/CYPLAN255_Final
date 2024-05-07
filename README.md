@@ -61,7 +61,7 @@ White
 Black
 Asian
 Other Race
-
+![Description of the Image](Tenderloin_Race_Percentage_Change_Figure_Label.png)
 Figure.3
 
 
