@@ -11,9 +11,10 @@ Investigate whether unemployment rate changes influence robbery rates.
 
 ## Data Sources
 The data used in this analysis includes:
-Robbery Data: Robbery incidents from 2018 to 2022 across various neighborhoods in San Francisco. https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783/about_data. 
-Demographic Data: Racial demographic proportions per neighborhood. https://data.census.gov/table/ACSDT5Y2022.B02001?t=Race%20and%20Ethnicity&g=050XX00US06075$1400000. 
-Unemployment Data: Unemployment rates per neighborhood. https://data.census.gov/table?t=Employment&g=050XX00US06075$1400000. 
+### Robbery Data: 
+[Robbery incidents from 2018 to 2022 across various neighborhoods in San Francisco](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783/about_data).  
+[Demographic Data: Racial demographic proportions per neighborhood](https://data.census.gov/table/ACSDT5Y2022.B02001?t=Race%20and%20Ethnicity&g=050XX00US06075$1400000).
+[Unemployment Data: Unemployment rates per neighborhood](https://data.census.gov/table?t=Employment&g=050XX00US06075$1400000). 
 
 ## Identifying the Top 5 Neighborhoods
 Aggregating robbery data across all years, I identified the following neighborhoods as having the highest total robbery counts:
