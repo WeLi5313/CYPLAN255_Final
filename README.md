@@ -28,7 +28,7 @@ These neighborhoods are the focus of my subsequent analyses. Figure.1 shows how 
 Figure.1
 
 ## Analyzing Unemployment Rate Changes and Robbery Rates
-To investigate whether unemployment rates impact robbery rates, I first visualized changes in unemployment rates over time in these five neighborhoods as Figure.2. Then, I came up with a  null hypothesis that the unemployment rate affects the number of robberies. I calculated the correlation coefficient and p-value between changes in the unemployment rate and robbery rates across the five neighborhoods. 
+To investigate whether unemployment rates impact robbery rates, I first visualized changes in unemployment rates over time in these five neighborhoods as Figure.2. Then, I came up with a null hypothesis that the unemployment rate does not affects the number of robberies. I calculated the correlation coefficient and p-value between changes in the unemployment rate and robbery rates across the five neighborhoods. 
 ![Description of the Image](Unemployment_Rate_Change_Selected_Neighborhoods.png)
 Figure.2
 
@@ -72,7 +72,7 @@ Other Race
 
 ![Description of the Image](Bayview_Hunters_Point_Race_Percentage_Change_Figure_Label.png)
 
-I calculated the correlation coefficient, p-value, and R² score for changes in these proportions relative to changes in robbery counts in each neighborhood.
+The null hypothesis is changes in the proportion of each racial group do not affect robbery crimes. I calculated the correlation coefficient, p-value, and R² score for changes in these proportions relative to changes in robbery counts in each neighborhood.
 ### Result Summary
 #### Mission Neighborhood:
 ##### Black Proportion Change:
@@ -180,7 +180,12 @@ R² Score: 0.9736
 ##### Interpretation:
 Strong negative correlations with Black, White, and Asian proportion changes.
 Very strong positive correlation with Other Race proportion changes.
-
+#### Summary
+Through a series of one-tailed p-value calculations, we evaluate this hypothesis which posits that changes in the proportion of each racial group do not significantly affect robbery crimes for each neighborhood:
+Black Population: Across all neighborhoods, the p-values exceed the significance threshold of 0.05, indicating that changes in the Black population proportion do not significantly impact robbery crimes; 
+White Population: Similarly, changes in the White population proportion are found to have no significant effect on robbery crimes across all neighborhoods; 
+Asian Population: Consistent with the previous findings, changes in the Asian population proportion do not yield statistically significant impacts on robbery crimes; 
+Other Race Population: Notably, the null hypothesis is rejected for the Mission and Bayview Hunters Point neighborhoods, signifying that changes in the proportion of residents from Other Races exert a significant influence on robbery crimes in these areas.
 
 ## Conclusion
 The analysis revealed different relationships between demographic changes and robbery rates in the top five neighborhoods. The results showed that changes in the proportion of blacks, whites and Asians did not significantly affect robbery crime in all five neighborhoods. But in the Mission and Bayview Hunters Point neighborhoods, changes in the proportion of the population of other races had a significant impact on robbery crime. Of course, more research is needed to explore whether changes in the racial composition of neighborhoods lead to changes in robbery crime rates. Second, and surprisingly, the study demonstrated no statistically significant relationship between unemployment and robbery rates, challenging the widely held assumption that high unemployment leads to increased crime. Understanding the complex interactions between unemployment, demographic changes, and crime rates can help policymakers and communities develop more effective crime prevention strategies. Exploring other socioeconomic factors, such as education, housing affordability, and community programs, can yield deeper insights into the crime phenomenon. This may be my goal for future projects.
