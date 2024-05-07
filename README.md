@@ -1,54 +1,54 @@
 #Examining the Impact of Demographic and Employment Changes on Robbery Rates in San Francisco Neighborhoods
-#Weichun_Liao
-Introduction
+Weichun_Liao
+##Introduction
 San Francisco, a city renowned for its vibrant and diverse communities, has long been a prime pilot site for urban research. In recent years, San Francisco's crime problem has become increasingly difficult to ignore, with robbery playing an important part in it. Understanding the factors that influence these crimes is crucial for effective policy-making. This blog explores the relationship between changes in racial demographics, unemployment rates, and robbery rates across five key neighborhoods.
-Research Goals and Methodology
+##Research Goals and Methodology
 My analysis aims to:
 Identify the top five neighborhoods with the highest robbery numbers.
 Analyze the correlation between changes in robbery rates and changes in racial demographic proportions.
 Investigate whether unemployment rate changes influence robbery rates.
 
 
-Data Sources
+##Data Sources
 The data used in this analysis includes:
 Robbery Data: Robbery incidents from 2018 to 2022 across various neighborhoods in San Francisco. https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783/about_data. 
 Demographic Data: Racial demographic proportions per neighborhood. https://data.census.gov/table/ACSDT5Y2022.B02001?t=Race%20and%20Ethnicity&g=050XX00US06075$1400000. 
 Unemployment Data: Unemployment rates per neighborhood. https://data.census.gov/table?t=Employment&g=050XX00US06075$1400000. 
 
-Identifying the Top 5 Neighborhoods
+##Identifying the Top 5 Neighborhoods
 Aggregating robbery data across all years, I identified the following neighborhoods as having the highest total robbery counts:
 Tenderloin, Mission, Financial District/South Beach, South of Market, Bayview Hunters Point
 These neighborhoods are the focus of my subsequent analyses. Figure.1 shows how numbers of robbery incidents change overtime. 
 ![Description of the Image](top_5_robbery_neighborhoods_line_chart_2018_2022.png)
 Figure.1
 
-Analyzing Unemployment Rate Changes and Robbery Rates
+##Analyzing Unemployment Rate Changes and Robbery Rates
 To investigate whether unemployment rates impact robbery rates, I first visualized changes in unemployment rates over time in these five neighborhoods as Figure.2. Then, I came up with a  null hypothesis that the unemployment rate affects the number of robberies. I calculated the correlation coefficient and p-value between changes in the unemployment rate and robbery rates across the five neighborhoods. 
 ![Description of the Image](Unemployment_Rate_Change_Selected_Neighborhoods.png)
 Figure.2
 
-Results Summary:
-Mission Neighborhood
+###Results Summary:
+####Mission Neighborhood
 Correlation: -0.24
 P-Value: 0.70
-Interpretation: No significant relationship found between the unemployment rate and robbery counts.
-Tenderloin Neighborhood
+#####Interpretation: No significant relationship found between the unemployment rate and robbery counts.
+####Tenderloin Neighborhood
 Correlation: -0.88
 P-Value: 0.0496
-Interpretation: Significant negative correlation between the unemployment rate and robbery counts (P-Value < 0.05). As the unemployment rate decreases, robberies tend to increase.
-Financial District/South Beach Neighborhood
+#####Interpretation: Significant negative correlation between the unemployment rate and robbery counts (P-Value < 0.05). As the unemployment rate decreases, robberies tend to increase.
+####Financial District/South Beach Neighborhood
 Correlation: -0.91
 P-Value: 0.0294
-Interpretation: Significant negative correlation between the unemployment rate and robbery counts (P-Value < 0.05). As the unemployment rate decreases, robberies tend to increase.
-South of Market Neighborhood
+#####Interpretation: Significant negative correlation between the unemployment rate and robbery counts (P-Value < 0.05). As the unemployment rate decreases, robberies tend to increase.
+####South of Market Neighborhood
 Correlation: -0.39
 P-Value: 0.52
-Interpretation: No significant relationship found between the unemployment rate and robbery counts.
+#####Interpretation: No significant relationship found between the unemployment rate and robbery counts.
 Bayview Hunters Point Neighborhood
 Correlation: -0.82
 P-Value: 0.0917
-Interpretation: Moderate negative correlation between the unemployment rate and robbery counts, but the relationship is not statistically significant (P-Value > 0.05).
-Summary
+#####Interpretation: Moderate negative correlation between the unemployment rate and robbery counts, but the relationship is not statistically significant (P-Value > 0.05).
+####Summary
 For the Tenderloin and Financial District/South Beach neighborhoods, the p-values are below 0.05, indicating significant evidence to reject the null hypothesis in these neighborhoods.
 
 Analyzing Demographic Changes and Robbery Rates
