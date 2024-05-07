@@ -4,10 +4,10 @@ Weichun Liao
 San Francisco, a city renowned for its vibrant and diverse communities, has long been a prime pilot site for urban research. In recent years, San Francisco's crime problem has become increasingly difficult to ignore, with robbery playing an important part in it. Understanding the factors that influence these crimes is crucial for effective policy-making. This blog explores the relationship between changes in racial demographics, unemployment rates, and robbery rates across five key neighborhoods.
 ## Research Goals and Methodology
 My analysis aims to:
-Identify the top five neighborhoods with the highest robbery numbers.
-Analyze the correlation between changes in robbery rates and changes in racial demographic proportions.
+Identify the top five neighborhoods with the highest robbery numbers; 
+Analyze the correlation between changes in robbery rates and changes in racial demographic proportions; 
 Investigate whether unemployment rate changes influence robbery rates.
-
+To achieve the goal, I use quantitative methods. I collected the following data and converted them from Census Tract into Analysis Neighborhood format through excel. Subsequently, I combined the data from each Analysis Neighborhood and used Python to perform data analysis, measure correlations, test p-values, and generate charts.
 
 ## Data Sources
 The data used in this analysis includes:
