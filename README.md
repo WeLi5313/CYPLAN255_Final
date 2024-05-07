@@ -193,5 +193,5 @@ The analysis revealed different relationships between demographic changes and ro
 
 
 ## References
-Feldmeyer, B., Steffensmeier, D., Harris, C. T., & Tasharrofi, S. (2018). Immigration and violent crime in california, 1980-2012: Contextualization by temporal period and Race/Ethnicity. Migration Letters, 15(2), 197-214. Retrieved from https://www-proquest-com.libproxy.berkeley.edu/scholarly-journals/immigration-violent-crime-california-1980-2012/docview/2148531004/se-2.
-Kramer, C. W. (2024). Systemic Racism in Crime: Do Blacks Commit More Crimes Than Whites? Liberty Matters. https://oll.libertyfund.org/publications/liberty-matters/2024-02-13-systemic-racism-in-crime-do-blacks-commit-more-crimes-than-whites.
+#### Feldmeyer, B., Steffensmeier, D., Harris, C. T., & Tasharrofi, S. (2018). Immigration and violent crime in california, 1980-2012: Contextualization by temporal period and Race/Ethnicity. Migration Letters, 15(2), 197-214. Retrieved from https://www-proquest-com.libproxy.berkeley.edu/scholarly-journals/immigration-violent-crime-california-1980-2012/docview/2148531004/se-2.
+#### Kramer, C. W. (2024). Systemic Racism in Crime: Do Blacks Commit More Crimes Than Whites? Liberty Matters. https://oll.libertyfund.org/publications/liberty-matters/2024-02-13-systemic-racism-in-crime-do-blacks-commit-more-crimes-than-whites.
