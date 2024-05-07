@@ -54,7 +54,7 @@ Correlation: -0.82
 P-Value: 0.0917
 ##### Interpretation: Moderate negative correlation between the unemployment rate and robbery counts, but the relationship is not statistically significant (P-Value > 0.05).
 #### Summary
-For the Tenderloin and Financial District/South Beach neighborhoods, the p-values are below 0.05, indicating significant evidence to reject the null hypothesis in these neighborhoods.
+For the Tenderloin and Financial District/South Beach neighborhoods, the p-values are below 0.05, indicating significant evidence to reject the null hypothesis in these neighborhoods.But contrary to expectations, there is a negative correlation between the unemployment rate and the robbery crime rate. For other neighborhoods, there is no linear correlation between unemployment rate and robbery crime rate.
 
 ## Analyzing Demographic Changes and Robbery Rates
 To understand the relationship between changes in robbery counts and racial demographics, I created line charts of these five neighborhood (From Figure.3 - Figure.7), and then decided to consider the proportions of four main racial groups:
@@ -181,7 +181,7 @@ R² Score: 0.9736
 Strong negative correlations with Black, White, and Asian proportion changes.
 Very strong positive correlation with Other Race proportion changes.
 #### Summary
-Through a series of one-tailed p-value calculations, we evaluate this hypothesis which posits that changes in the proportion of each racial group do not significantly affect robbery crimes for each neighborhood:
+Through a series of one-tailed p-value calculations, I evaluate this hypothesis which posits that changes in the proportion of each racial group do not significantly affect robbery crimes for each neighborhood:
 Black Population: Across all neighborhoods, the p-values exceed the significance threshold of 0.05, indicating that changes in the Black population proportion do not significantly impact robbery crimes; 
 White Population: Similarly, changes in the White population proportion are found to have no significant effect on robbery crimes across all neighborhoods; 
 Asian Population: Consistent with the previous findings, changes in the Asian population proportion do not yield statistically significant impacts on robbery crimes; 
