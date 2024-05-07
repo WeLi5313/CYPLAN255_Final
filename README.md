@@ -58,19 +58,14 @@ Black
 Asian
 Other Race
 ![Description of the Image](Tenderloin_Race_Percentage_Change_Figure_Label.png)
-Figure.3
 
 ![Description of the Image](Mission_Race_Percentage_Change_Figure_Label.png)
-Figure.4
 
 ![Description of the Image](Financial_District_South_Beach_Race_Percentage_Change_Figure_Label.png)
-Figure.5
 
 ![Description of the Image](South_of_Market_Race_Percentage_Change_Figure_Label.png)
-Figure.6
 
 ![Description of the Image](Bayview_Hunters_Point_Race_Percentage_Change_Figure_Label.png)
-Figure.7
 
 I calculated the correlation coefficient, p-value, and R² score for changes in these proportions relative to changes in robbery counts in each neighborhood.
 Correlation Analysis Results
