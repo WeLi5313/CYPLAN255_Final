@@ -17,11 +17,7 @@ Unemployment Data: Unemployment rates per neighborhood. https://data.census.gov/
 
 Identifying the Top 5 Neighborhoods
 Aggregating robbery data across all years, I identified the following neighborhoods as having the highest total robbery counts:
-Tenderloin
-Mission
-Financial District/South Beach
-South of Market
-Bayview Hunters Point
+Tenderloin, Mission, Financial District/South Beach, South of Market, Bayview Hunters Point
 These neighborhoods are the focus of my subsequent analyses. Figure.1 shows how numbers of robbery incidents change overtime. 
 ![Description of the Image](top_5_robbery_neighborhoods_line_chart_2018_2022.png)
 Figure.1
