@@ -1,7 +1,7 @@
 # Examining the Impact of Demographic and Employment Changes on Robbery Rates in San Francisco Neighborhoods
 Weichun Liao
 ## Introduction
-San Francisco, a city renowned for its vibrant and diverse communities, has long been a prime pilot site for urban research. In recent years, San Francisco's crime problem has become increasingly difficult to ignore, with robbery playing an important part in it. Understanding the factors that influence these crimes is crucial for effective policy-making. This blog explores the relationship between changes in racial demographics, unemployment rates, and robbery rates across five key neighborhoods.
+San Francisco, a city renowned for its vibrant and diverse communities, has long been a prime pilot site for urban research. In recent years, San Francisco's crime problem has become increasingly difficult to ignore, with robbery playing an important part in it. Feldmeyer et al. (2018) and Kramer (2024) both talk about the phenomenon of systematically attributing crime growth to immigrants or minorities, which weighs heavily on my mind. As a result, I write this blog to explore the relationship between changes in racial demographics, unemployment rates, and robbery rates across five Top Robbery-crimed neighborhoods. I hope to use this research to understanding some of factors that might influence the robbery crimes, and provide some perspectives for future policy-making. 
 ## Research Goals and Methodology
 My analysis aims to:
 Identify the top five neighborhoods with the highest robbery numbers; 
