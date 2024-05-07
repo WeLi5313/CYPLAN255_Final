@@ -184,7 +184,7 @@ Very strong positive correlation with Other Race proportion changes.
 Through a series of one-tailed p-value calculations, I evaluate this hypothesis which posits that changes in the proportion of each racial group do not significantly affect robbery crimes for each neighborhood:
 Black Population: Across all neighborhoods, the p-values exceed the significance threshold of 0.05, indicating that changes in the Black population proportion do not significantly impact robbery crimes; 
 White Population: Similarly, changes in the White population proportion are found to have no significant effect on robbery crimes across all neighborhoods; 
-Asian Population: Consistent with the previous findings, changes in the Asian population proportion do not yield statistically significant impacts on robbery crimes; 
+Asian Population: As the previous two, changes in the Asian population proportion do not yield statistically significant impacts on robbery crimes; 
 Other Race Population: Notably, the null hypothesis is rejected for the Mission and Bayview Hunters Point neighborhoods, signifying that changes in the proportion of residents from Other Races exert a significant influence on robbery crimes in these areas.
 
 ## Conclusion
