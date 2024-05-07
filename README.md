@@ -28,7 +28,7 @@ Figure.1
 
 Analyzing Unemployment Rate Changes and Robbery Rates
 To investigate whether unemployment rates impact robbery rates, I first visualized changes in unemployment rates over time in these five neighborhoods as Figure.2. Then, I came up with a  null hypothesis that the unemployment rate affects the number of robberies. I calculated the correlation coefficient and p-value between changes in the unemployment rate and robbery rates across the five neighborhoods. 
-![Description of the Image](Unemployment_Rate_Change_Selected_Neighborhoods (2).png)
+![Description of the Image](Unemployment_Rate_Change_Selected_Neighborhoods.png)
 Figure.2
 
 Results Summary:
